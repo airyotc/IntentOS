@@ -26,7 +26,7 @@ Crypto UX sucks: 7 steps for a yield farm. We fix it with intents—signed goals
 ## Quickstart (Base Testnet)
 1. **Clone & Install**:
 2. 2. **Test Intent**:
-- Faucet: [Base Sepolia](https://sepoliafaucet.base.org)
+- Faucet: [Base Sepolia](https://portal.cdp.coinbase.com/products/faucet?token=ETH&network=base-sepolia&projectId=fd4abd83-33df-47d8-b5ae-63417b6fbd8b)
 - Run: `npm start` → Sign dummy ERC-7683 order
 3. **Dev on Base**: Use Wagmi for RPC: `https://sepolia.base.org`
 
