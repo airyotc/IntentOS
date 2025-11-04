@@ -15,14 +15,6 @@ Crypto UX sucks: 7 steps for a yield farm. We fix it with intents—signed goals
 - **Frontend**: React + Wagmi (1-click signing)
 - **ZK (Optional)**: RISC Zero for verifiable fills
 
-## 90-Day Roadmap
-| Phase | Timeline | Milestones |
-|-------|----------|------------|
-| **0: Prep** | Now | Repo fork, X outreach, env setup |
-| **1: Build** | Nov-Dec | Intent signing, AI solver, atomic exec |
-| **2: Test** | Dec-Feb | 10K Base testnet txns, beta airdrop |
-| **3: Scale** | Feb-Mar | Phantom embed, $500K pre-seed |
-
 ## Quickstart (Base Testnet)
 1. **Clone & Install**:
 2. 2. **Test Intent**:
